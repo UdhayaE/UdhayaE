@@ -18,8 +18,8 @@ class Udhaya:
         self.name           = "Udhaya E"
         self.location       = "India"
         self.email          = "i.mce.udhaya@gmail.com"
-        self.degree         = "B.E. Computer Science"
-        self.role           = "QA Engineer / Software Test Engineer"
+        self.degree         = "B.E. Computer Science Engineering"
+        self.role           = "QA Analyst / Software Test Engineer"
 
         self.stack = [
             "Python", "JavaScript", "TypeScript", "SQL",
